@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Cai!</h1>
+<h1 align="center">Hi there, I'm Cai!</h1>
 
 ###
 
