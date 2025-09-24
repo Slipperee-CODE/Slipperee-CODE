@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/caischeidler" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://slipperee-code.github.io/website/" target="_blank">
+  <a href="https://slipperee-code.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
   <a href="mailto:scheidlercai@gmail.com" target="_blank">
