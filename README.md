@@ -24,4 +24,4 @@
 
 I love creating informative parody songs (mainly surrounding calculus) and I'm currently working on a designing a 1 pound combat robot.
 
-Feel free to connect with me via email or linkedin! </p>
+Feel free to connect with me via email (scheidlercai@gmail.com) or linkedin! </p>
