@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, I'm Cai! I am a Freshman at UC Berkeley studying Electrical Engineering and Computer Science. I am looking to specialize in mechatronics and have used my skills to make an assortment of applications including 2 published iOS mobile games (DoodleDogs and Somnï) created alongside a team of peers. 
+<p align="left">Hi, I'm Cai! I am a Sophmore at UC Berkeley studying Electrical Engineering and Computer Science. I am looking to specialize in mechatronics and have used my skills to make an assortment of applications including 2 published iOS mobile games (DoodleDogs and Somnï) created alongside a team of peers. 
 
 I love creating informative parody songs (mainly surrounding calculus) and I'm currently working on a designing a 1 pound combat robot.
 
