@@ -20,11 +20,12 @@
 
 ###
 
-<p align="left">Hi, I'm Cai! I am a Sophmore at UC Berkeley studying Electrical Engineering and Computer Science. I am looking to specialize in mechatronics and have used my skills to make an assortment of applications including 2 published iOS mobile games (DoodleDogs and Somnï) created alongside a team of peers. 
+<p align="left">
+Hi there, I'm Cai Scheidler!
 
-I love creating informative parody songs (mainly surrounding calculus) and I'm currently working on a designing a 1 pound combat robot.
+I enjoy teaching, building software & hardware systems, and learning!
 
-Feel free to connect with me via email (scheidlercai@gmail.com) or linkedin! 
+Feel free to email me at scheidlercai@gmail.com if you want to discuss combat robotics, ask a question about one of my projects, or anything else!
 
-My website can be found here: https://slipperee-code.github.io/
+My portfolio (experience & projects) can be found here: <a href="https://slipperee-code.github.io/">slipperee-code.github.io</a>
 </p>
